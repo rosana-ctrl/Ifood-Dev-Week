@@ -29,6 +29,6 @@ public class Sacola{
     private List<Item> itensSacola;
     private double valorTotalSacola;
     @Enumerated
-    private FormaPagamento Formapagamento;
+    private FormaPagamento FormaPagamento;
     private boolean fechada;
 }
